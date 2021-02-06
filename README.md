@@ -2,7 +2,7 @@
 Youtubeチャンネル「プロちゃん」で使用したソースを公開しています。
 
 ## 公開動画ページ  
-<hhttps://youtu.be/O2WIEMB7dvI>  
+<https://youtu.be/8PmlHY_tPyQ>  
 この動画ではVisualStudio C#を使用してFOR文、WHILE文について説明しています。
   
 ## チャンネルトップページ  
